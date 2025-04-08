@@ -1,26 +1,27 @@
-## Hi there 👋
-## 💼 About Me
+# Hey there, I'm Kilo 👋  
+CS student • Builder of random but fun things • Open source explorer
+
+---
+
+## 🧰 About Me
 
 - 🎓 CS student working on real-world projects
-- ☕ Java is my jam (but I like trying new stacks)
-- 🔧 Always building something: tools, games, or weird side projects
-- 💬 Open to collaborating, learning, and sharing knowledge
+- ☕ Java is my jam
+- 🛠️ Always building something: tools, games, or weird side projects
+- 🤝 Open to collaborating, learning, and sharing knowledge
+- 🍪 Currently maintaining: [OpenFortuneCookie](https://github.com/Pkwiatkowski-ssj/FortuneCookieGenerator)
 
-![Kilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pkwiatkowski-ssj&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pkwiatkowski-ssj&layout=compact)
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pkwiatkowski-ssj&theme=radical)
+## 📊 GitHub Stats
 
-<!--
-**Pkwiatkowski-ssj/Pkwiatkowski-ssj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Kilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pkwiatkowski-ssj&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Pkwiatkowski-ssj&theme=tokyonight)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pkwiatkowski-ssj&layout=compact&theme=tokyonight)
+
+---
