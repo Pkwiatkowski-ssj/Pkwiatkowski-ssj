@@ -1,4 +1,11 @@
 ## Hi there 👋
+## 💼 About Me
+
+- 🎓 CS student working on real-world projects
+- ☕ Java is my jam (but I like trying new stacks)
+- 🔧 Always building something: tools, games, or weird side projects
+- 💬 Open to collaborating, learning, and sharing knowledge
+
 ![Kilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pkwiatkowski-ssj&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pkwiatkowski-ssj&layout=compact)
 
 <!--
