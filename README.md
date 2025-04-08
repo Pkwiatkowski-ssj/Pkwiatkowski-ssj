@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Kilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pkwiatkowski-ssj&show_icons=true&theme=radical)
 
 <!--
 **Pkwiatkowski-ssj/Pkwiatkowski-ssj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
