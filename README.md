@@ -16,7 +16,7 @@ CS student • Builder of random but fun things • Open source explorer
 ## 📊 GitHub Stats
 
 ![Kilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pkwiatkowski-ssj&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Pkwiatkowski-ssj&theme=tokyonight)
+
 
 ---
 
